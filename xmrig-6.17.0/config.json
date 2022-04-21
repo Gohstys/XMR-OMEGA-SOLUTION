@@ -57,15 +57,15 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
             "url": "rx.unmineable.com:3333",
-            "user": "0xe77070ce816595803c00deca32af997654ad47d8",
+            "user": "SHIB:0xe77070ce816595803c00deca32af997654ad47d8.omega#f7lg-l71i",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
